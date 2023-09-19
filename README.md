@@ -7,7 +7,7 @@ The student_complete.csv has 7 columns of data: _Student ID_, _student_name_, _g
 
 The PyCitySchools folder also contains the PyCitySchools.ipynb script which is the Jupyter Notebook script, that when runs analyzes the data within student_complete.csv and schools_complete.csv files.
 
-The PyCitySchools.ipynb outputs two summaries and sorts the data 7 different ways.
+The PyCitySchools.ipynb outputs two summaries and sorts the data 7 different ways. PyCitySchools.ipynb also contains some written conclusions based on the analysis at the top of the file.
 
 The first summary is the District summary which includes
 - Total number of unique schools
